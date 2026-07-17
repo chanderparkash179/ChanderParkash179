@@ -18,12 +18,12 @@
 
 - 📫 How to reach me **chanderparkash179@gmail.com**
 
-- 📄 Know about my experiences [chanderparkash.me](https://chanderparkash.me)
+- 📄 Know about my experiences [ichanderparkash.web.app](https://ichanderparkash.web.app)
 
 - ⚡ Fun fact **I'm a Fast Bowler**
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-337A87?style=for-the-badge&logoColor=white)](https://chanderparkash.me) 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-337A87?style=for-the-badge&logoColor=white)](https://ichanderparkash.web.app) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](chanderparkash179@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanderparkash179) 
