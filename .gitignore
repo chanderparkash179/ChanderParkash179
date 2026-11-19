@@ -1,0 +1,52 @@
+# --- GitHub profile README ---
+# Keep: README.md, assets/*.svg, licenses/, preview.html, LICENSE
+# Ignore local build/verify tooling and source intermediates.
+
+# Node / Playwright (icon export + SVG verification)
+node_modules/
+package.json
+package-lock.json
+npm-debug.log*
+yarn-error.log*
+
+# Python build helpers
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local preview / verification outputs
+preview/frames/
+preview/**/*.png
+preview/**/*_noanim.svg
+
+# Upload zip is regenerable; don't bloat the profile repo
+github-profile-readme.zip
+*.zip
+
+# Source portraits (already embedded as base64 inside the SVGs)
+# Keep regenerating from local copies; GitHub only needs the SVGs.
+/id.png
+/right_pointing.png
+/assets/id.png
+/assets/right_pointing.png
+
+# Intermediate icon downloads (paths live in icons.json / SVGs)
+/assets/icons/*.svg
+!/assets/icons/icons.json
+
+# Font binaries (embedded as base64 in SVGs; licenses stay tracked)
+/assets/fonts/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.swp
+*~
+.idea/
+.vscode/
+.cursor/
+*.code-workspace
