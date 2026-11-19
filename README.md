@@ -23,18 +23,3 @@
 ### Connect
 
 [Portfolio](https://ichanderparkash.web.app) · [LinkedIn](https://linkedin.com/in/chanderparkash179) · [Stack Overflow](https://stackoverflow.com/users/22019464/chander-parkash) · [GitHub](https://github.com/chanderparkash179) · [Instagram](https://www.instagram.com/chanderraaj179) · [Facebook](https://facebook.com/chanderparkash179) · [Email](mailto:chanderparkash179@gmail.com)
-
-### Featured work
-
-| Project | Focus | Notes |
-| --- | --- | --- |
-| **Mashreq Bank** | Bill Payments | High-volume bill payment flows for retail banking. |
-| **Bank Al Habib** | Teller | Teller platform capabilities for branch operations. |
-| **Panasonic Europe** | MDM · Profile Center 2.0 | Master data & profile center upgrades across Europe. |
-
-### Snapshot
-
-- **Role:** Senior Software Engineer @ Systems Ltd.
-- **Location:** Karachi
-- **GitHub:** [chanderparkash179](https://github.com/chanderparkash179)
-- **Public repos:** 22 · **Followers:** 7 · **Joined:** Nov 2019
